@@ -1,1 +1,1 @@
-# golangign_crashcourse
+# golang_gin_crashcourse
